@@ -1,7 +1,9 @@
 Name: Akhil Parimi
-B-Number: B00866489
+
 Email: aparimi1@binghamton.edu
+
 The code was tested on remote.cs and working.
+
 Makefile is generated and can be run using 'make' from the root folder.
 
 ***To compile:***
